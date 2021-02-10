@@ -1,0 +1,6 @@
+.grid-icons > * {
+    display: inline-flex;
+    font-size: 8rem;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
