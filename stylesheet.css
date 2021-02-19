@@ -4,3 +4,21 @@
     margin-bottom: 30px;
     margin-right: 30px;
 }
+
+.contact_link {
+    border: none;
+}
+
+/* .fa-linkedin, .fa-github, .fa-angellist {
+    display: flex;
+    padding-bottom: 15px;
+}
+
+.icon > .label {
+    display: none;
+} */
+
+/* .icon-h3 {
+    display: flex;
+    float: left;
+} */
